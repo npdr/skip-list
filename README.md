@@ -1,5 +1,5 @@
 # skip-list
-dynamic skip list implementation in C
+basic dictionary implementation using a dynamic skip list in C
 
 usage example:
 
