@@ -1,7 +1,7 @@
 # skip-list
 basic dictionary implementation using a dynamic skip list in C
 
-instruction on how to run it on the Makefile
+instructions on how to run it on the Makefile
 
 usage example:
 
